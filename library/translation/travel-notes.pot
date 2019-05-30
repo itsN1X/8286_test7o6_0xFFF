@@ -1,0 +1,967 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Travel Notes v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-09-12 05:26:09+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:10
+#@ travel-notes
+msgid "Article Not Found"
+msgstr ""
+
+#: 404.php:13
+#@ travel-notes
+msgid "The article you were looking for was not found. You may want to check your link or perhaps that page does not exist anymore."
+msgstr ""
+
+#: comments.php:18
+#@ travel-notes
+msgid "<span>No</span> Comments"
+msgstr ""
+
+#: comments.php:18
+#@ travel-notes
+msgid "<span>1</span> Comment"
+msgstr ""
+
+#: comments.php:18
+#@ travel-notes
+msgid "<span>%</span> Comments"
+msgid_plural "<span>%</span> Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38
+#@ travel-notes
+msgid "&larr; Previous Comments"
+msgstr ""
+
+#: comments.php:39
+#@ travel-notes
+msgid "More Comments &rarr;"
+msgstr ""
+
+#: comments.php:44
+#@ travel-notes
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:7
+#@ travel-notes
+msgid "Powered by WordPress"
+msgstr ""
+
+#: footer.php:7
+#@ travel-notes
+msgid "WP Dev Shed"
+msgstr ""
+
+#: footer.php:7
+#@ travel-notes
+msgid "and"
+msgstr ""
+
+#: full-width.php:40
+#: page.php:33
+#: single.php:108
+#@ travel-notes
+msgid "Oops, Post Not Found!"
+msgstr ""
+
+#: full-width.php:41
+#: page.php:34
+#: single.php:109
+#@ travel-notes
+msgid "Uh Oh. Something is missing. Try double checking things."
+msgstr ""
+
+#: home-content/home-audio.php:17
+#: home-content/home-video.php:4
+#: home-content/home.php:7
+#, php-format
+#@ travel-notes
+msgid "<span class=\"fa fa-user\"></span> <span class=\"author\">%3$s</span> <span class=\"fa fa-clock-o\"></span> <time class=\"updated\" datetime=\"%1$s\" pubdate>%2$s</time>"
+msgstr ""
+
+#: home-content/home-audio.php:19
+#: home-content/home-video.php:6
+#: home-content/home.php:9
+#@ travel-notes
+msgid "Read More &raquo;"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:333
+#: library/functions/custom-functions.php:434
+#@ travel-notes
+msgid "Install Required Plugins"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:334
+#: library/functions/custom-functions.php:435
+#@ travel-notes
+msgid "Install Plugins"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:335
+#: library/functions/custom-functions.php:436
+#, php-format
+#@ travel-notes
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:336
+#: library/functions/custom-functions.php:437
+#@ travel-notes
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:338
+#: library/functions/custom-functions.php:438
+#, php-format
+#@ travel-notes
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm-plugin-activation.php:343
+#: library/functions/custom-functions.php:439
+#, php-format
+#@ travel-notes
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm-plugin-activation.php:348
+#, php-format
+#@ travel-notes
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm-plugin-activation.php:353
+#: library/functions/custom-functions.php:444
+#, php-format
+#@ travel-notes
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm-plugin-activation.php:358
+#, php-format
+#@ travel-notes
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm-plugin-activation.php:363
+#, php-format
+#@ travel-notes
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm-plugin-activation.php:368
+#: library/functions/custom-functions.php:441
+#, php-format
+#@ travel-notes
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm-plugin-activation.php:373
+#: library/functions/custom-functions.php:442
+#, php-format
+#@ travel-notes
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm-plugin-activation.php:378
+#, php-format
+#@ travel-notes
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm-plugin-activation.php:383
+#: library/functions/custom-functions.php:446
+#@ travel-notes
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm-plugin-activation.php:388
+#@ travel-notes
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm-plugin-activation.php:393
+#: library/functions/custom-functions.php:447
+#@ travel-notes
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm-plugin-activation.php:397
+#: library/functions/custom-functions.php:448
+#@ travel-notes
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:398
+#@ travel-notes
+msgid "Return to the dashboard"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:399
+#: library/class/class-tgm-plugin-activation.php:3029
+#: library/functions/custom-functions.php:449
+#@ travel-notes
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:401
+#, php-format
+#@ travel-notes
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:402
+#, php-format
+#@ travel-notes
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:403
+#, php-format
+#@ travel-notes
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:404
+#@ travel-notes
+msgid "Dismiss this notice"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:405
+#@ travel-notes
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:520
+#@ travel-notes
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:521
+#@ travel-notes
+msgid "Update Required"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:635
+#@ travel-notes
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:828
+#: library/class/class-tgm-plugin-activation.php:3438
+#@ travel-notes
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:935
+#@ travel-notes
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:935
+#: library/class/class-tgm-plugin-activation.php:938
+#@ travel-notes
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:938
+#@ travel-notes
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1116
+#: library/class/class-tgm-plugin-activation.php:2828
+#@ travel-notes
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1881
+#, php-format
+#@ travel-notes
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2167
+#@ travel-notes
+msgid "Required"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2170
+#@ travel-notes
+msgid "Recommended"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2186
+#@ travel-notes
+msgid "WordPress Repository"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2189
+#@ travel-notes
+msgid "External Source"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2192
+#@ travel-notes
+msgid "Pre-Packaged"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2209
+#@ travel-notes
+msgid "Not Installed"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2213
+#@ travel-notes
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2215
+#@ travel-notes
+msgid "Active"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2221
+#@ travel-notes
+msgid "Required Update not Available"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2224
+#@ travel-notes
+msgid "Requires Update"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2227
+#@ travel-notes
+msgid "Update recommended"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2235
+#, php-format
+#@ travel-notes
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2280
+#, php-format
+#@ travel-notes
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm-plugin-activation.php:2283
+#, php-format
+#@ travel-notes
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm-plugin-activation.php:2286
+#, php-format
+#@ travel-notes
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm-plugin-activation.php:2289
+#, php-format
+#@ travel-notes
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm-plugin-activation.php:2371
+#@ travel-notes
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2379
+#@ travel-notes
+msgid "Installed version:"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2387
+#@ travel-notes
+msgid "Minimum required version:"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2399
+#@ travel-notes
+msgid "Available version:"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2422
+#, php-format
+#@ travel-notes
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2436
+#@ travel-notes
+msgid "Plugin"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2437
+#@ travel-notes
+msgid "Source"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2438
+#@ travel-notes
+msgid "Type"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2442
+#@ travel-notes
+msgid "Version"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2443
+#@ travel-notes
+msgid "Status"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2491
+#, php-format
+#@ travel-notes
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2495
+#, php-format
+#@ travel-notes
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2500
+#, php-format
+#@ travel-notes
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2570
+#@ travel-notes
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2603
+#@ travel-notes
+msgid "Install"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2609
+#@ travel-notes
+msgid "Update"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2612
+#@ travel-notes
+msgid "Activate"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2643
+#@ travel-notes
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2645
+#@ travel-notes
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2681
+#@ travel-notes
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2683
+#@ travel-notes
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2788
+#@ travel-notes
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2814
+#@ travel-notes
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: library/class/class-tgm-plugin-activation.php:2832
+#: library/class/class-tgm-plugin-activation.php:400
+#@ travel-notes
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm-plugin-activation.php:3028
+#@ travel-notes
+msgid "Plugin activation failed."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:3362
+#, php-format
+#@ travel-notes
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:3364
+#, php-format
+#@ travel-notes
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:3365
+#, php-format
+#@ travel-notes
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:3369
+#@ travel-notes
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:3370
+#, php-format
+#@ travel-notes
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:3370
+#: library/class/class-tgm-plugin-activation.php:3376
+#@ travel-notes
+msgid "Show Details"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:3370
+#: library/class/class-tgm-plugin-activation.php:3376
+#@ travel-notes
+msgid "Hide Details"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:3371
+#@ travel-notes
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:3372
+#, php-format
+#@ travel-notes
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:3375
+#@ travel-notes
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:3376
+#, php-format
+#@ travel-notes
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:3377
+#@ travel-notes
+msgid "All installations have been completed."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:3378
+#, php-format
+#@ travel-notes
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/customizer/controls.php:41
+#@ travel-notes
+msgid "Theme Accent Color 1"
+msgstr ""
+
+#: library/customizer/controls.php:53
+#@ travel-notes
+msgid "Post Settings"
+msgstr ""
+
+#: library/customizer/controls.php:64
+#@ travel-notes
+msgid "Disable the Related Posts?"
+msgstr ""
+
+#: library/customizer/controls.php:75
+#@ travel-notes
+msgid "Disable the Author Information?"
+msgstr ""
+
+#: library/customizer/controls.php:81
+#@ travel-notes
+msgid "Home page features"
+msgstr ""
+
+#: library/customizer/controls.php:90
+#@ travel-notes
+msgid "Banner Video (Youtube Video ID)"
+msgstr ""
+
+#: library/customizer/controls.php:97
+#@ travel-notes
+msgid "sticky"
+msgstr ""
+
+#: library/customizer/controls.php:103
+#@ travel-notes
+msgid "Choose whether to display \"Sticky Posts\" or \"Categories\" or nothing"
+msgstr ""
+
+#: library/customizer/controls.php:108
+#@ travel-notes
+msgid "None"
+msgstr ""
+
+#: library/customizer/controls.php:109
+#@ travel-notes
+msgid "Sticky Posts"
+msgstr ""
+
+#: library/customizer/controls.php:110
+#@ travel-notes
+msgid "Categories"
+msgstr ""
+
+#: library/customizer/controls.php:135
+#@ travel-notes
+msgid "Social Media Icons"
+msgstr ""
+
+#: library/customizer/controls.php:137
+#@ travel-notes
+msgid "Optional media icons in the header"
+msgstr ""
+
+#: library/customizer/controls.php:145
+#@ travel-notes
+msgid "Enter your Facebook url"
+msgstr ""
+
+#: library/customizer/controls.php:156
+#@ travel-notes
+msgid "Enter your Twitter url"
+msgstr ""
+
+#: library/customizer/controls.php:167
+#@ travel-notes
+msgid "Enter your Google+ url"
+msgstr ""
+
+#: library/customizer/controls.php:178
+#@ travel-notes
+msgid "Enter your Pinterest url"
+msgstr ""
+
+#: library/customizer/controls.php:189
+#@ travel-notes
+msgid "Enter your Linkedin url"
+msgstr ""
+
+#: library/customizer/controls.php:200
+#@ travel-notes
+msgid "Enter your Youtube url"
+msgstr ""
+
+#: library/customizer/controls.php:211
+#@ travel-notes
+msgid "Enter your Tumblr url"
+msgstr ""
+
+#: library/customizer/controls.php:222
+#@ travel-notes
+msgid "Enter your Instagram url"
+msgstr ""
+
+#: library/customizer/controls.php:233
+#@ travel-notes
+msgid "Enter your Flickr url"
+msgstr ""
+
+#: library/customizer/controls.php:244
+#@ travel-notes
+msgid "Enter your Vimeo url"
+msgstr ""
+
+#: library/customizer/controls.php:255
+#@ travel-notes
+msgid "Enter your RSS url"
+msgstr ""
+
+#: library/customizer/controls.php:266
+#@ travel-notes
+msgid "Enter your email address"
+msgstr ""
+
+#: library/functions/custom-functions.php:205
+#@ travel-notes
+msgid "Facebook"
+msgstr ""
+
+#: library/functions/custom-functions.php:206
+#@ travel-notes
+msgid "Twitter"
+msgstr ""
+
+#: library/functions/custom-functions.php:207
+#@ travel-notes
+msgid "Google+"
+msgstr ""
+
+#: library/functions/custom-functions.php:208
+#@ travel-notes
+msgid "Pinterest"
+msgstr ""
+
+#: library/functions/custom-functions.php:209
+#@ travel-notes
+msgid "Linkedin"
+msgstr ""
+
+#: library/functions/custom-functions.php:210
+#@ travel-notes
+msgid "Youtube"
+msgstr ""
+
+#: library/functions/custom-functions.php:211
+#@ travel-notes
+msgid "Tumblr"
+msgstr ""
+
+#: library/functions/custom-functions.php:212
+#@ travel-notes
+msgid "Instagram"
+msgstr ""
+
+#: library/functions/custom-functions.php:213
+#@ travel-notes
+msgid "Flickr"
+msgstr ""
+
+#: library/functions/custom-functions.php:214
+#@ travel-notes
+msgid "Vimeo"
+msgstr ""
+
+#: library/functions/custom-functions.php:215
+#@ travel-notes
+msgid "RSS"
+msgstr ""
+
+#: library/functions/custom-functions.php:249
+#@ travel-notes
+msgid "Featured Categories"
+msgstr ""
+
+#: library/functions/custom-functions.php:278
+#@ travel-notes
+msgid "Featured Posts"
+msgstr ""
+
+#: library/functions/custom-functions.php:329
+#: library/travel-notes.php:100
+#@ travel-notes
+msgid "The Main Menu"
+msgstr ""
+
+#: library/functions/custom-functions.php:440
+#, php-format
+#@ travel-notes
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/functions/custom-functions.php:443
+#, php-format
+#@ travel-notes
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/functions/custom-functions.php:445
+#, php-format
+#@ travel-notes
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/functions/custom-functions.php:450
+#, php-format
+#@ travel-notes
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: library/functions/functions.php:43
+#@ travel-notes
+msgid "300px by 300px"
+msgstr ""
+
+#: library/functions/functions.php:53
+#@ travel-notes
+msgid "Posts Sidebar"
+msgstr ""
+
+#: library/functions/functions.php:54
+#@ travel-notes
+msgid "The Posts sidebar."
+msgstr ""
+
+#: library/functions/functions.php:63
+#@ travel-notes
+msgid "Page Sidebar"
+msgstr ""
+
+#: library/functions/functions.php:64
+#@ travel-notes
+msgid "The Page sidebar."
+msgstr ""
+
+#: library/functions/functions.php:86
+#@ travel-notes
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: library/functions/functions.php:90
+#, php-format
+#@ travel-notes
+msgid "<cite class=\"fn\">%1$s</cite> %2$s"
+msgstr ""
+
+#: library/functions/functions.php:90
+#@ travel-notes
+msgid "(Edit)"
+msgstr ""
+
+#: library/functions/functions.php:91
+#@ travel-notes
+msgid "F jS, Y"
+msgstr ""
+
+#: library/travel-notes.php:135
+#, php-format
+#@ travel-notes
+msgid "Page %s"
+msgstr ""
+
+#: library/travel-notes.php:169
+#@ travel-notes
+msgid "No Related Posts Yet!"
+msgstr ""
+
+#: library/travel-notes.php:179
+#@ travel-notes
+msgid "Read "
+msgstr ""
+
+#: library/travel-notes.php:179
+#@ travel-notes
+msgid "Read more &raquo;"
+msgstr ""
+
+#: post-content/format-quote.php:19
+#: post-content/format.php:9
+#@ travel-notes
+msgid "Pages:"
+msgstr ""
+
+#: search.php:7
+#@ travel-notes
+msgid "Search Results for:"
+msgstr ""
+
+#: sidebar-page.php:16
+#: sidebar.php:16
+#@ travel-notes
+msgid "This is a widget ready area. Add some and they will appear here."
+msgstr ""
+
+#: single.php:19
+#@ travel-notes
+msgid ", "
+msgstr ""
+
+#: single.php:20
+#, php-format
+#@ travel-notes
+msgid "Filed under: %s"
+msgstr ""
+
+#: single.php:28
+#@ travel-notes
+msgid "Tags: "
+msgstr ""
+
+#: single.php:61
+#@ travel-notes
+msgid "You may also like "
+msgstr ""
+
